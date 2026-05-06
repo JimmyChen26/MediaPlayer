@@ -31,6 +31,11 @@
 - Windows Forms App (.NET Framework)
 - Windows Media Player 元件
 
+
+<img width="404" height="452" alt="螢幕擷取畫面 2026-05-06 230538" src="https://github.com/user-attachments/assets/735206c9-1549-4f63-ad49-ecabba6e0522" />
+
+
+
 ## 介面說明
 
 程式畫面主要分成三個區域：
